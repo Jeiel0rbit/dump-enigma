@@ -147,8 +147,7 @@ export default function Home() {
       </div>
 
       <footer className="bg-gray-800 text-white text-center py-3 mt-auto">
-        [Desde 2025] Página tem como intuito indexar páginas da internet
-        publicamente e fornecer de maneira mais limpa e objetiva.
+        [Desde 2025] Me ajude a denunciar esses grupos de consulta. Botão de reportar serve para me notificar que o grupo está banido com sucesso.
       </footer>
     </div>
   );
