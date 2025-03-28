@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Dump-Enigma",
-  description: "Lista de consultas encontradas no Telegram, especificamente da internet publicamente disponível.",
+  description: "Links foram extraídos da internet. Espero que você me ajude a denunciar esses grupos de consultas para o Telegram.",
 };
 
 export default function RootLayout({ children }) {
