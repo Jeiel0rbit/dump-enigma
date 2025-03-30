@@ -147,7 +147,7 @@ export default function Home() {
       </div>
 
       <footer className="bg-gray-800 text-white text-center py-3 mt-auto">
-        [Desde 2025] Me ajude a denunciar esses grupos de consulta. Botão de reportar serve para me notificar que o grupo está banido com sucesso.
+        [Desde 2025] O Dump Enigma apenas indexa links encontrados em fontes públicas. Não armazeno conteúdo de terceiro, nem incentivo atividades ilegais. Caso algum link viole direitos, entre em contato para remoção.
       </footer>
     </div>
   );
